@@ -1,2 +1,4 @@
 .env
-searches/*
+searches/*.csv
+searches/**/*.csv
+backups/*.json
